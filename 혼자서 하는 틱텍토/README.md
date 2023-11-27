@@ -8,7 +8,7 @@ O이 선공이면 있을 수 없는 경우가 상당히 많다.
 
 분류는 뭐로 해야 할지 아직도 모르겠음;;
 
-
+<pre><code>
             int solution(string[] board)
             {
                 int Xcount = 0;
@@ -88,3 +88,4 @@ O이 선공이면 있을 수 없는 경우가 상당히 많다.
 
                 return 1;
             }
+</code></pre>
