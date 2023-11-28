@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20210929(2)\\UnityStudy\\CodingTestStudy\\혼자서 하는 틱텍토\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\20210929(2)\\UnityStudy\\CodingTestStudy\\혼자서 하는 틱텍토\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\20210929(2)\\UnityStudy\\CodingTestStudy\\피로도\\피로도\\피로도.csproj",
+      "projectName": "피로도",
+      "projectPath": "D:\\20210929(2)\\UnityStudy\\CodingTestStudy\\피로도\\피로도\\피로도.csproj",
       "packagesPath": "C:\\Users\\work0\\.nuget\\packages\\",
-      "outputPath": "D:\\20210929(2)\\UnityStudy\\CodingTestStudy\\혼자서 하는 틱텍토\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\20210929(2)\\UnityStudy\\CodingTestStudy\\피로도\\피로도\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

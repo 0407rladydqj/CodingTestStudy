@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\bin\Debug\netcoreapp3.1\피로도.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\bin\Debug\netcoreapp3.1\피로도.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\bin\Debug\netcoreapp3.1\피로도.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\bin\Debug\netcoreapp3.1\피로도.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\bin\Debug\netcoreapp3.1\피로도.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\bin\Debug\netcoreapp3.1\피로도.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\피로도\피로도\obj\Debug\netcoreapp3.1\피로도.genruntimeconfig.cache
