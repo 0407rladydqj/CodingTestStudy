@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\bin\Debug\netcoreapp3.1\조이스틱.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\bin\Debug\netcoreapp3.1\조이스틱.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\bin\Debug\netcoreapp3.1\조이스틱.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\bin\Debug\netcoreapp3.1\조이스틱.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\bin\Debug\netcoreapp3.1\조이스틱.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\bin\Debug\netcoreapp3.1\조이스틱.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\조이스틱\조이스틱\obj\Debug\netcoreapp3.1\조이스틱.genruntimeconfig.cache
