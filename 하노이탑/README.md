@@ -3,7 +3,7 @@
 재귀 함수로 쓰는걸 감은 잡았는데 어떻게 풀어야 할지 몰랐다.
 
 삽질코드
-'''
+'''C#
 public class Hanoi
         {
             Stack<int[,]> track = new Stack<int[,]>();
@@ -33,7 +33,7 @@ public class Hanoi
 2. 위에 원반을 다 옮기면 목표 지점으로 옮긴다.
 3. 보조 핀에 있는 원반을 목표 지점으로 옮긴다.
 
-'''
+'''C#
 using System;
 using System.Collections.Generic;
 public class Solution {
