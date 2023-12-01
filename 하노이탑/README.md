@@ -34,8 +34,7 @@ public class Hanoi
 3. 보조 핀에 있는 원반을 목표 지점으로 옮긴다.
 
 <pre><code>
-{
-        using System;
+using System;
 using System.Collections.Generic;
 
 public class Solution {
@@ -66,7 +65,6 @@ public class Solution {
             Hanoi(num - 1, sub, from, to);
         }
     }
-}
 }
 </code></pre>
 
