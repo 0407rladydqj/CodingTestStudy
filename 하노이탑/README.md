@@ -36,7 +36,6 @@ public class Hanoi
 '''
 using System;
 using System.Collections.Generic;
-
 public class Solution {
     List<int[]> track = new List<int[]>();
     public int[,] solution(int n)
@@ -50,7 +49,6 @@ public class Solution {
         }
         return answer;
     }
-
     void Hanoi(int num, int from, int sub, int to)
     {
         if (num == 0)
