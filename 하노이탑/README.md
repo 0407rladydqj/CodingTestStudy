@@ -3,7 +3,7 @@
 재귀 함수로 쓰는걸 감은 잡았는데 어떻게 풀어야 할지 몰랐다.
 
 삽질코드
-'''C#
+```C#
 public class Hanoi
         {
             Stack<int[,]> track = new Stack<int[,]>();
@@ -22,7 +22,7 @@ public class Hanoi
              ~~
             */
         }
-'''
+```
 
 
 직접 하노이탑 어플을 깔아서 게임을 해보고 감을 잡아서 풀었다.
@@ -33,7 +33,7 @@ public class Hanoi
 2. 위에 원반을 다 옮기면 목표 지점으로 옮긴다.
 3. 보조 핀에 있는 원반을 목표 지점으로 옮긴다.
 
-'''C#
+```C#
 using System;
 using System.Collections.Generic;
 public class Solution {
@@ -64,6 +64,6 @@ public class Solution {
         }
     }
 }
-'''
+```
 
 코테중 게임을 깔아서 시험하기엔 좀 곤란하니 연습을 많이 해야 할듯
