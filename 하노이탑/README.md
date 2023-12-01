@@ -34,7 +34,8 @@ public class Hanoi
 3. 보조 핀에 있는 원반을 목표 지점으로 옮긴다.
 
 <pre><code>
-using System;
+{
+        using System;
 using System.Collections.Generic;
 
 public class Solution {
@@ -57,11 +58,15 @@ public class Solution {
             return;
         else
         {
+            //옮길게 여러개인 경우 위에꺼 다 치우는 판정
             Hanoi(num - 1, from, to, sub);
+            //다 치우고 옮김
             track.Add(new int[] { from, to });
+            //옮긴거에서 다시 목표지점으로
             Hanoi(num - 1, sub, from, to);
         }
     }
+}
 }
 </code></pre>
 
