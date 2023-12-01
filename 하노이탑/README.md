@@ -6,11 +6,8 @@
 <pre><code>
 public class Hanoi
         {
-            //경로 스텍
             Stack<int[,]> track = new Stack<int[,]>();
-            //핀 기록 스텍
             Stack<Stack<int>> reco = new Stack<Stack<int>>();
-            //1,2,3 스택
             Dictionary<int, Stack<int>> Pins = new Dictionary<int, Stack<int>>();
 
             void StartSet(int num)
@@ -60,11 +57,8 @@ public class Solution {
             return;
         else
         {
-            //옮길게 여러개인 경우 위에꺼 다 치우는 판정
             Hanoi(num - 1, from, to, sub);
-            //다 치우고 옮김
             track.Add(new int[] { from, to });
-            //옮긴거에서 다시 목표지점으로
             Hanoi(num - 1, sub, from, to);
         }
     }
