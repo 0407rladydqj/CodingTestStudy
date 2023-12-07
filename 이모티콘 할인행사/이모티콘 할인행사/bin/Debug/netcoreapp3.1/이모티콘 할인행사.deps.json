@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "이모티콘 할인행사/1.0.0": {
+        "runtime": {
+          "이모티콘 할인행사.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "이모티콘 할인행사/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
