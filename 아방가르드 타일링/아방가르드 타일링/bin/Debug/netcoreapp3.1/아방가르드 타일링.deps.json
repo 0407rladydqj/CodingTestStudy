@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "아방가르드 타일링/1.0.0": {
+        "runtime": {
+          "아방가르드 타일링.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "아방가르드 타일링/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

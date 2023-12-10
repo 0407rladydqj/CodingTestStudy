@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "택배 배달과 수거하기/1.0.0": {
+        "runtime": {
+          "택배 배달과 수거하기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "택배 배달과 수거하기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
