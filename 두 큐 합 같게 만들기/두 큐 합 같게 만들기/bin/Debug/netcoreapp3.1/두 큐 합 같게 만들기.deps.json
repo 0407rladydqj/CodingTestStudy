@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "두 큐 합 같게 만들기/1.0.0": {
+        "runtime": {
+          "두 큐 합 같게 만들기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "두 큐 합 같게 만들기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
