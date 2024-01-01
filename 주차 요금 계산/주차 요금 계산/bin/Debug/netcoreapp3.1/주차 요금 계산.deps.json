@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "주차 요금 계산/1.0.0": {
+        "runtime": {
+          "주차 요금 계산.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "주차 요금 계산/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

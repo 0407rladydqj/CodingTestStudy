@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\bin\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\bin\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\bin\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\bin\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\bin\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\bin\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\k진수에서 소수 개수 구하기\k진수에서 소수 개수 구하기\obj\Debug\netcoreapp3.1\k진수에서 소수 개수 구하기.genruntimeconfig.cache

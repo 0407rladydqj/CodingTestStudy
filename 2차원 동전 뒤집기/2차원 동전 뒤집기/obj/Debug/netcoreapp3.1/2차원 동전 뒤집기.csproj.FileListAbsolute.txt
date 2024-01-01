@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\bin\Debug\netcoreapp3.1\2차원 동전 뒤집기.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\bin\Debug\netcoreapp3.1\2차원 동전 뒤집기.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\bin\Debug\netcoreapp3.1\2차원 동전 뒤집기.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\bin\Debug\netcoreapp3.1\2차원 동전 뒤집기.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\bin\Debug\netcoreapp3.1\2차원 동전 뒤집기.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\bin\Debug\netcoreapp3.1\2차원 동전 뒤집기.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\2차원 동전 뒤집기\2차원 동전 뒤집기\obj\Debug\netcoreapp3.1\2차원 동전 뒤집기.genruntimeconfig.cache

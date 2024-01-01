@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2차원 동전 뒤집기/1.0.0": {
+        "runtime": {
+          "2차원 동전 뒤집기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2차원 동전 뒤집기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

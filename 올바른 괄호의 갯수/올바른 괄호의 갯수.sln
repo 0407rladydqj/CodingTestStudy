@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "올바른 괄호의 갯수", "올바른 괄호의 갯수\올바른 괄호의 갯수.csproj", "{570A7ADC-E826-4223-BC36-03189D219333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570A7ADC-E826-4223-BC36-03189D219333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570A7ADC-E826-4223-BC36-03189D219333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570A7ADC-E826-4223-BC36-03189D219333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570A7ADC-E826-4223-BC36-03189D219333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3CEF55F-947E-44B3-82CE-11EBDE7FA42E}
+	EndGlobalSection
+EndGlobal
