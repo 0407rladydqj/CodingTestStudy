@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\bin\Debug\netcoreapp3.1\가장 많이 받은 선물.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\bin\Debug\netcoreapp3.1\가장 많이 받은 선물.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\bin\Debug\netcoreapp3.1\가장 많이 받은 선물.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\bin\Debug\netcoreapp3.1\가장 많이 받은 선물.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\bin\Debug\netcoreapp3.1\가장 많이 받은 선물.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\bin\Debug\netcoreapp3.1\가장 많이 받은 선물.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\가장 많이 받은 선물\가장 많이 받은 선물\obj\Debug\netcoreapp3.1\가장 많이 받은 선물.genruntimeconfig.cache

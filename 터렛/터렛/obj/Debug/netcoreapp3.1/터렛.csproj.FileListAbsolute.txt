@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\bin\Debug\netcoreapp3.1\터렛.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\bin\Debug\netcoreapp3.1\터렛.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\bin\Debug\netcoreapp3.1\터렛.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\bin\Debug\netcoreapp3.1\터렛.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\bin\Debug\netcoreapp3.1\터렛.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\bin\Debug\netcoreapp3.1\터렛.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\터렛\터렛\obj\Debug\netcoreapp3.1\터렛.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "n + 1 카드게임/1.0.0": {
+        "runtime": {
+          "n + 1 카드게임.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "n + 1 카드게임/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\bin\Debug\netcoreapp3.1\n + 1 카드게임.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\bin\Debug\netcoreapp3.1\n + 1 카드게임.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\bin\Debug\netcoreapp3.1\n + 1 카드게임.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\bin\Debug\netcoreapp3.1\n + 1 카드게임.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\bin\Debug\netcoreapp3.1\n + 1 카드게임.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\bin\Debug\netcoreapp3.1\n + 1 카드게임.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\n + 1 카드게임\n + 1 카드게임\obj\Debug\netcoreapp3.1\n + 1 카드게임.genruntimeconfig.cache

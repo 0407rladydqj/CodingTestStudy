@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "양과 늑대/1.0.0": {
+        "runtime": {
+          "양과 늑대.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "양과 늑대/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "사라지는 발판", "사라지는 발판\사라지는 발판.csproj", "{BF7DA858-13B1-40DE-BEFE-51A3A1DD792E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7DA858-13B1-40DE-BEFE-51A3A1DD792E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7DA858-13B1-40DE-BEFE-51A3A1DD792E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7DA858-13B1-40DE-BEFE-51A3A1DD792E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7DA858-13B1-40DE-BEFE-51A3A1DD792E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EC18F8-258C-4611-B308-88583C90869F}
+	EndGlobalSection
+EndGlobal
