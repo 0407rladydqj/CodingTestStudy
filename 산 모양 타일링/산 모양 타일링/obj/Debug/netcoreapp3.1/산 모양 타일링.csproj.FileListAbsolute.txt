@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\bin\Debug\netcoreapp3.1\산 모양 타일링.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\bin\Debug\netcoreapp3.1\산 모양 타일링.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\bin\Debug\netcoreapp3.1\산 모양 타일링.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\bin\Debug\netcoreapp3.1\산 모양 타일링.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\bin\Debug\netcoreapp3.1\산 모양 타일링.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\bin\Debug\netcoreapp3.1\산 모양 타일링.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\산 모양 타일링\산 모양 타일링\obj\Debug\netcoreapp3.1\산 모양 타일링.genruntimeconfig.cache

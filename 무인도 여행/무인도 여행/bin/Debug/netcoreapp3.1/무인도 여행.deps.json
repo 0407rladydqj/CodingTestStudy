@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "무인도 여행/1.0.0": {
+        "runtime": {
+          "무인도 여행.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "무인도 여행/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

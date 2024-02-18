@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\bin\Debug\netcoreapp3.1\에어컨.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\bin\Debug\netcoreapp3.1\에어컨.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\bin\Debug\netcoreapp3.1\에어컨.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\bin\Debug\netcoreapp3.1\에어컨.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\bin\Debug\netcoreapp3.1\에어컨.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\bin\Debug\netcoreapp3.1\에어컨.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\에어컨\에어컨\obj\Debug\netcoreapp3.1\에어컨.genruntimeconfig.cache

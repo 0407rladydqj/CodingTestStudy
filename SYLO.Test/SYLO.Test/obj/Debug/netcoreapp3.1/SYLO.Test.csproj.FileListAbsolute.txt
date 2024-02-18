@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\bin\Debug\netcoreapp3.1\SYLO.Test.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\bin\Debug\netcoreapp3.1\SYLO.Test.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\bin\Debug\netcoreapp3.1\SYLO.Test.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\bin\Debug\netcoreapp3.1\SYLO.Test.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\bin\Debug\netcoreapp3.1\SYLO.Test.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\bin\Debug\netcoreapp3.1\SYLO.Test.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\SYLO.Test\SYLO.Test\obj\Debug\netcoreapp3.1\SYLO.Test.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\bin\Debug\netcoreapp3.1\징검다리.exe
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\bin\Debug\netcoreapp3.1\징검다리.deps.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\bin\Debug\netcoreapp3.1\징검다리.runtimeconfig.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\bin\Debug\netcoreapp3.1\징검다리.runtimeconfig.dev.json
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\bin\Debug\netcoreapp3.1\징검다리.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\bin\Debug\netcoreapp3.1\징검다리.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.csproj.AssemblyReference.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.GeneratedMSBuildEditorConfig.editorconfig
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.AssemblyInfoInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.AssemblyInfo.cs
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.csproj.CoreCompileInputs.cache
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.dll
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.pdb
+D:\20210929(2)\UnityStudy\CodingTestStudy\징검다리\징검다리\obj\Debug\netcoreapp3.1\징검다리.genruntimeconfig.cache
